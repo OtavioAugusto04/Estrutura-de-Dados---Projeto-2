@@ -1,0 +1,30 @@
+29
+1922 William Afton                            32 ANALISTA DE SUPORTE        2574.00
+1950 Thiago Ribeiro                           64 ANALISTA DE SUPORTE        2348.00
+2014 Daniel Pereira                           63 ANALISTA DE SUPORTE        2392.00
+2136 Helena Moreira                           32 PROGRAMADOR                3375.00
+2757 Igor Mendes                              43 CONTADOR                   5166.00
+3000 otavio                                   20 guitarrista                9000.00
+3061 Carlos Ferreira                          29 ADMINISTRATIVO             4188.00
+3266 Thiago Gomes                             61 ADMINISTRATIVO             2599.00
+3445 Gabriel Gomes                            25 ANALISTA DE SISTEMAS       5372.00
+4030 Gabriel Oliveira                         47 CONTADOR                   5582.00
+4347 Bruno Teixeira                           30 ANALISTA DE SISTEMAS       5888.00
+4596 William Gomes                            39 PROGRAMADOR                3327.00
+4741 Igor Barros                              64 ANALISTA DE SISTEMAS       5623.00
+4811 Carlos Barros                            36 CONTADOR                   5420.00
+5274 Gabriel Carvalho                         34 CONTADOR                   5604.00
+5373 Carlos Ferreira                          42 ADMINISTRATIVO             4004.00
+5382 Mariana Mendes                           36 PROGRAMADOR                3811.00
+5501 Rafael Moreira                           52 ANALISTA DE SUPORTE        2358.00
+5919 William Nascimento                       49 ANALISTA DE SUPORTE        2461.00
+6946 Ana Mendes                               40 ANALISTA DE SUPORTE        2465.00
+7248 Vanessa Mendes                           45 CONTADOR                   5048.00
+7491 Juliana Almeida                          61 ADMINISTRATIVO             3217.00
+7810 Thiago Mendes                            60 GERENTE                   12328.00
+7889 Ana Oliveira                             65 ADMINISTRATIVO             4460.00
+8011 Ana Rodrigues                            61 ANALISTA DE SUPORTE        2618.00
+8197 Fernanda Rodrigues                       28 ANALISTA DE SUPORTE        2610.00
+8328 Clara Alves                              49 CONTADOR                   5682.00
+8417 Bruno Carvalho                           31 ADMINISTRATIVO             3787.00
+8478 Vanessa Pereira                          44 CONTADOR                   5353.00
