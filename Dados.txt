@@ -1,10 +1,9 @@
-29
+28
 1922 William Afton                            32 ANALISTA DE SUPORTE        2574.00
 1950 Thiago Ribeiro                           64 ANALISTA DE SUPORTE        2348.00
 2014 Daniel Pereira                           63 ANALISTA DE SUPORTE        2392.00
 2136 Helena Moreira                           32 PROGRAMADOR                3375.00
 2757 Igor Mendes                              43 CONTADOR                   5166.00
-3000 otavio                                   20 CONTADOR                9000.00
 3061 Carlos Ferreira                          29 ADMINISTRATIVO             4188.00
 3266 Thiago Gomes                             61 ADMINISTRATIVO             2599.00
 3445 Gabriel Gomes                            25 ANALISTA DE SISTEMAS       5372.00
